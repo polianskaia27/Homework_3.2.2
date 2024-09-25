@@ -1,0 +1,16 @@
+{
+  "name": "homework_3.2.2",
+  "version": "1.0.0",
+  "main": "best_student.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
