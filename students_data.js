@@ -1,4 +1,4 @@
-export const studentsData = [
+const studentsData = [
   [
     { name: "Ivan", score: 35, date: "2022-10-11" },
     { name: "Maria", score: 5, date: "2022-10-10" },
@@ -25,3 +25,4 @@ export const studentsData = [
   ],
 ];
 
+module.exports = { studentsData };
